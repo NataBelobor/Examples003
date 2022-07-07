@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\papka\Examples\zadacha 8\pub\dz8\bin\Debug\net6.0\dz8.exe
+C:\Users\Админ\Desktop\papka\Examples\zadacha 8\pub\dz8\bin\Debug\net6.0\dz8.deps.json
+C:\Users\Админ\Desktop\papka\Examples\zadacha 8\pub\dz8\bin\Debug\net6.0\dz8.runtimeconfig.json
+C:\Users\Админ\Desktop\papka\Examples\zadacha 8\pub\dz8\bin\Debug\net6.0\dz8.dll
+C:\Users\Админ\Desktop\papka\Examples\zadacha 8\pub\dz8\bin\Debug\net6.0\dz8.pdb
+C:\Users\Админ\Desktop\papka\Examples\zadacha 8\pub\dz8\obj\Debug\net6.0\dz8.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\papka\Examples\zadacha 8\pub\dz8\obj\Debug\net6.0\dz8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\papka\Examples\zadacha 8\pub\dz8\obj\Debug\net6.0\dz8.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\papka\Examples\zadacha 8\pub\dz8\obj\Debug\net6.0\dz8.AssemblyInfo.cs
+C:\Users\Админ\Desktop\papka\Examples\zadacha 8\pub\dz8\obj\Debug\net6.0\dz8.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\papka\Examples\zadacha 8\pub\dz8\obj\Debug\net6.0\dz8.dll
+C:\Users\Админ\Desktop\papka\Examples\zadacha 8\pub\dz8\obj\Debug\net6.0\refint\dz8.dll
+C:\Users\Админ\Desktop\papka\Examples\zadacha 8\pub\dz8\obj\Debug\net6.0\dz8.pdb
+C:\Users\Админ\Desktop\papka\Examples\zadacha 8\pub\dz8\obj\Debug\net6.0\dz8.genruntimeconfig.cache
+C:\Users\Админ\Desktop\papka\Examples\zadacha 8\pub\dz8\obj\Debug\net6.0\ref\dz8.dll
